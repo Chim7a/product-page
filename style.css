@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  font-family: "Maven Pro", sans-serif;
+  background-color: rgba(49, 40, 34, 0.842);
+}
+
+img {
+  max-width: 100%;
+}
+
+/* hero--section */
+
+.hero--sec {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.66), rgba(0, 0, 0, 0.66)),
+    url("https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-size: cover;
+  height: 70vh;
+  background-repeat: no-repeat;
+  max-width: 100%;
+  background-position: center;
+}
+
+.hero--txt button {
+  background-color: #ca3c25;
+}
