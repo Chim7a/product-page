@@ -2,7 +2,7 @@
 
 body {
   font-family: "Maven Pro", sans-serif;
-  background-color: rgba(49, 40, 34, 0.842);
+  background-color: rgba(49, 40, 34, 0.95);
 }
 
 img {
@@ -24,3 +24,15 @@ img {
 .hero--txt button {
   background-color: #ca3c25;
 }
+
+/* Product styling */
+.product--sec {
+  max-width: 300px;
+  background-color: #312822;
+}
+
+.product--sec button {
+  background-color: #ca3c25;
+}
+
+/* Product styling Ends*/
